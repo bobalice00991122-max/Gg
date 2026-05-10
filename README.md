@@ -25,7 +25,7 @@ so while visitng there are some simple rules are below
    **the steps for submit answer**
 1. steps ,, ## How to complete this challenge 
 2. ***importent Save the final answer url to a file and visit it from that saved file
-3. eg:https://adithyanm.dev/message?msg=100  (dont apply safety checks before opening or sharing links)***
+
 4. only visit the final url 
 
    
